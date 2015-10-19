@@ -25,6 +25,11 @@ public class B4_DEVUGRAP {
 		}
 		s1.close();
 	}
+	
+	public void  f1()
+	{
+		//empty function
+	}
 }
 
 
