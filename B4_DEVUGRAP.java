@@ -31,9 +31,16 @@ public class B4_DEVUGRAP {
 		//empty function
 	}
 
+
 	public void  f3()
 	{
 		//function in master
+	}
+	
+	public void  f2()
+	{
+		//function in branch2
+
 	}
 }
 
