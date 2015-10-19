@@ -8,6 +8,7 @@ public class B4_DEVUGRAP {
 		int i,j,n,k,num,ops;
 		while(t>0)
 		{
+			//change1
 			ops=0;
 			n=s1.nextInt();k=s1.nextInt();
 			for(i=0;i<n;i++)
